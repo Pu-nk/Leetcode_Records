@@ -16,4 +16,5 @@ This repo is used for recording the experience of getting over leetcode
 	- 旋转数组找最小值：找到旋转点即可，比较mid和right之间的大小关系，如果`nums[mid] > nums[right]`这就说明反转点肯定在这个区间里`left = mid + 1`，但是如果`nums[mid] >< nums[right]`就不好说了，就先在left那边找`right = mid`
 	- while的条件是`<`还是`<=`取决于你的左右指针是全闭区间还是左闭右开的，如果左闭右开的话就是`<`，同理此时缩小区间也不需要加一或者减一，因为从一开始你的mid计算结果就隐含了这一条件。
 - 又刷了一道题[有序数组中的单一元素](https://leetcode.cn/problems/single-element-in-a-sorted-array/)， 休息了休息了！！！
+- 周六也要刷力扣，二分搜索做这道题还是挺难的！！！[寻找两个正序数组的中位数](https://leetcode.cn/problems/median-of-two-sorted-arrays/)
 ---
