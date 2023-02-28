@@ -20,3 +20,4 @@ This repo is used for recording the experience of getting over leetcode
 - 周日健身完匆忙补上，二分搜索完结撒花🎉！开始排序算法第一题 [数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/)
 ---
 - 周一作业已交 [前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/)
+- 周二在城投匆忙commit [根据字符出现频率排序](https://leetcode.cn/problems/sort-characters-by-frequency/)
