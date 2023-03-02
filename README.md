@@ -22,4 +22,5 @@ This repo is used for recording the experience of getting over leetcode
 - 周一作业已交 [前 K 个高频元素](2023-02-27)
 - 周二在城投匆忙commit [根据字符出现频率排序](2023-02-28)
 - 周三从医院回来先刷一道[颜色分类](2023-03-01), 排序算法完结撒花🎉
+- 周四早上刷了两道力扣，开启搜索算法[深度优先搜索 and 广度优先搜索](2023-03-02)
 
