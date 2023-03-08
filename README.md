@@ -29,3 +29,4 @@ This repo is used for recording the experience of getting over leetcode
 ---
 - 周一力扣[组合](2023-03-06)， 坚持坚持！！
 - 周二彻底摆烂，希望下次不要摆烂[单词搜索](2023-03-07)
+- 周三终于做了[n皇后](2023-03-08)
